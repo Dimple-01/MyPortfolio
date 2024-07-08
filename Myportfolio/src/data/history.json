@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Open Source-Contributor",
+      "organisation": "Girlscript summer of code",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Worked on Frontend", "Increased user experience"],
+      "imageSrc": "history/opensource.jpg"
+    },
+   
+    {
+      "role": "Web Developer Intern",
+      "organisation": "CodeClause",
+      "startDate": "July, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": [
+        "Developed feature-rich chat app",
+        "Created dynamic text editor"
+      ],
+      "imageSrc": "history/cc.jpg"
+    }
+  ]

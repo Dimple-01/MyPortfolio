@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Chat Application",
+      "imageSrc": "projects/project1.png",
+      "description": "This project aims to learn modern web development by building a real-time chat application.",
+      "skills": ["HTML", "CSS","Javascript","WebSockets"],
+      "source": "https://github.com/Dimple-01/CodeClause_Basic_chat_application_using_WebSockets"
+    },
+    {
+      "title": "Text Editor",
+      "imageSrc": "projects/project2.png",
+      "description": "This project involves building a text editor with dark and light modes using modern web techniques.",
+      "skills": ["HTML", "CSS","Javascript", "React"],
+      "source": "https://github.com/Dimple-01/CodeClause_Text_Editor"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a project made to recommend movies by analyzing correlation, ratings, and watch time.",
+      "skills": ["Python"," NumPy","Pandas"],
+      "source": "https://github.com/Dimple-01/MachineLearning/tree/master/Movie%20Recommendation"
+    },
+    {
+      "title": "Face Recognition System",
+      "imageSrc": "projects/project4.png",
+      "description": "This project develops a face recognition system using NumPy, KNN, OpenCV, and classifiers to recognize faces, extract faces from videos, and predict faces from memory.",
+      "skills": ["Python"," NumPy","OpenCV"],
+      "source": "https://github.com/Dimple-01/MachineLearning/tree/master/openCV/face%20recognition"
+    },
+    {
+      "title": "Music Player",
+      "imageSrc": "projects/project5.png",
+      "description": "This project develops a comprehensive music player app with playback, playlist, and visualization features.",
+      "skills": ["HTML", "CSS","Javascript"],
+      "source": "https://github.com/Dimple-01/Music-App"
+    }
+  ]
